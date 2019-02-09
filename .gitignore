@@ -1,4 +1,13 @@
+# apticity.moviebox::gitignore
+
+## jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+## parcel
+.cache/
+
+## node
+node_modules/

@@ -1,0 +1,20 @@
+{
+  "author": "fred belotte <fredbelotte@outlook.com>",
+  "homepage": "https://github.com/apticity/moviebox#readme",
+  "license": "MIT",
+  "name": "@apticity/moviebox",
+  "scripts": {
+    "build": "npm run build:css && npm run build:js",
+    "build:css": "parcel build ./src/_sass/main.scss --out-dir ./src/assets/css/ --out-file index.min.css",
+    "build:js": "parcel build ./src/assets/js/index.js --out-dir ./src/assets/js/ --out-file index.min.js"
+  },
+  "version": "0.0.0",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "~5.7.0",
+    "bulma": "~0.7.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "~1.11.0",
+    "sass": "~1.16.1"
+  }
+}
