@@ -2,7 +2,11 @@
 
 # moviebox::readme
 
-the project website
+
+MovieBox is a dynamic web application with an intuitive and dynamic user interface that gives users access to the latest movie information. Need a synopsis of that new move? Check MovieBox. Access to the latest trailers? Check MovieBox. Movie actors? Check MovieBox. Whether you need a movie recommendation or really need to win that argument, MovieBox is your one stop shop for all of your movie night needs.
+
+Technologies : GitHub, SonarCloud, Docker,Azure DevOps,Slack, Wireframe.cc,Docfx,Swagger,Azure Containers,Azure SQL, Azure AD, Azure App Insights, Bulma, Compo Doc.
+
 
 ## maintainer
 
